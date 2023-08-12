@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="sakshampratap8800/android_device_vivo_1906" path="device/vivo/1906" remote="github" revision="android-11" />
+</manifest>
