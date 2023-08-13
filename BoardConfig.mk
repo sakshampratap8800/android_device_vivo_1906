@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-#Iherit from common 1906
-include device/vivo/1906/BoardConfigCommon.mk
+#Iherit from common mithorium-common
+include device/vivo/mithorium-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/vivo/1906
 
